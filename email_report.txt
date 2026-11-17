@@ -1,0 +1,20 @@
+
+========== EMAIL RISK REPORT ==========
+
+Email Content:
+congratulations! you are a winner. click here to get free money. verify now! visit http://free-prize-login.com
+
+Suspicious Words:
+- winner
+- click here
+- free money
+- verify now
+- congratulations
+
+Links Found:
+- http://free-prize-login.com
+
+Risk Score: 100/100
+Risk Level: HIGH
+
+Analysis completed!
